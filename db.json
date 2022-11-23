@@ -1,0 +1,104 @@
+{
+    "espacogamer":[
+      { "id" : 1, "nome": "Cadeira Gamer Stillus, Robusta, Reclinável Giratória, Vermelha.", "preço" : "R$ 719,91"},
+      { "id" : 2, "nome": "Cadeira Gamer, Fifa Qatar 2022 Checkpoint Brasil Azul", "preço" : "R$ 1.529,10"},
+      { "id" : 3, "nome": "Cadeira Gamer Pctop Racer", "preço" : "R$ 1.006,99"},
+      { "id" : 4, "nome": "Cadeira Gamer Eaglex Pro Reclinável", "preço" : "R$ 887,90"}  
+    ],
+  "games":[
+    { "id" : 1, "nome": "Console Sony PlayStation 5 + FIFA 23", "preço" : "R$ 4.319,90"},
+    { "id" : 2, "nome": "Jogo Resident Evil Village - Gold Edition PS5", "preço" : "R$ 279,90"},
+    { "id" : 3, "nome": "Jogo Far Cry Primal Hits PS4", "preço" : "R$ 39,99"},
+    { "id" : 4, "nome": "Jogo God of War Ragnarök, Edição Standard PS4", "preço" : "R$ 263,91"}  
+    ],
+    "conectividade":[
+      { "id" : 1, "nome": "Extensor De Alcance Wi-fi Tp-link Re200", "preço" : "R$ 255,99"},
+      { "id" : 2, "nome": "Repetidor TP-LINK AC1750 - RE450", "preço" : "R$ 539,99"},
+      { "id" : 3, "nome": "Switch Gigabit de Mesa TP-Link 5 - LS1005G", "preço" : "R$ 89,99"},
+      { "id" : 4, "nome": "Cabo LAN Furukawa CAT5E CMX Azul", "preço" : "R$ 659,99"}  
+    ],
+
+    "eletrodomesticos": [
+        { "id": 1, "Nome": "Micro-ondas", "Preço": "499,90" },
+        { "id": 2, "Nome": "Airfryer", "Preço": "399,90" },
+        { "id": 3, "Nome": "Maquina de Lavar", "Preço": "1499,90" },
+        { "id": 4, "Nome": "Geladeira", "Preço": "2990,90" }
+      ],
+      "desktop": [
+        { "id": 1, "Nome": "Pc Gamer", "Preço": "3099,90" },
+        { "id": 2, "Nome": "Mini-computador", "Preço": "1499,90" },
+        { "id": 3, "Nome": "Computador de escritório", "Preço": "1799,90" },
+        { "id": 4, "Nome": "All-in-one", "Preço": "1999,90" }
+      ],
+      "perifericos": [ 
+          { "id": 1, "Nome": "Pen Drive", "Preço": "24,90" },
+          { "id": 2, "Nome": "Caixa de Som", "Preço": "89,90" },
+          { "id": 3, "Nome": "Mousepad", "Preço": "49,90" },
+          { "id": 4, "Nome": "Headset Gamer", "Preço": "199,90" }
+      ],
+
+      "televisao" : [
+        {"id" : 1,"nome": "Tv Monitor","preço" : "597"},
+        {"id" : 2,"nome": "Tv 8K","preço" : "5497"},
+        { "id" : 3,"nome": "Tv Smart 4k","preço" : "2997"},
+        {"id" : 4,"nome": "Tv FullHD","preço" : "1997"}
+      ],
+
+      "hardware" : [
+        { "id" : 1,"nome": "Placa de Video","preço" : "2500"},
+        {  "id" : 2,"nome": "Placa Mãe","preço" : "700"},
+        {  "id" : 3,"nome": "Cooler","preço" : "250"},
+        {"id" : 4,"nome": "Processador","preço" : "900"}
+      ], 
+          
+      "seguranca" : [   
+      {  "id" : 1,"nome": "kit Câmera","preço" : "500"},
+      { "id" : 2,"nome": "Alarme", "preço" : "409"},
+      { "id" : 3,"nome": "Cofre","preço" : "1500"},
+      { "id" : 4, "nome": "Fechaduras","preço" : "230"}   
+     ],
+     "tablets" : [
+      {"id" : 1,"nome": "Tablet Samsung Galaxy A7","preço" : "R$ 779,00"},
+      {"id" : 2,"nome": "Tablet Samsung Galaxy Tab A8","preço" : "R$ 1.199,00"},
+      { "id" : 3,"nome": "Tablet Samsung Galaxy Tab S6 Lite","preço" : "R$ 1.979,00"},
+      {"id" : 4,"nome": "iPad 9ª geração Apple 10,2","preço" : "R$ 2.699,00"}
+    ],
+
+    "ventiladores" : [
+      { "id" : 1,"nome": "Ventilador Oster Super Breeze 2 em 1","preço" : "R$ 149,99"},
+      {  "id" : 2,"nome": "Ventilador De Mesa 6 Pás 40cm","preço" : "R$ 99,99"},
+      {  "id" : 3,"nome": "Ventilador de Mesa Mondial Super Turbo","preço" : "R$ 209,99"},
+      {"id" : 4,"nome": "Vent Arno, Vf42, 40cm","preço" : "R$ 175,00"}
+    ], 
+        
+    "celulares" : [   
+    {  "id" : 1,"nome": "Smartphone Samsung Galaxy A32","preço" : "R$ 1.389,00"},
+    { "id" : 2,"nome": "Smartphone Samsung Galaxy A22", "preço" : "R$ 1.099,00"},
+    { "id" : 3,"nome": "Smartphone Samsung Galaxy M53","preço" : "R$ 1.499,00"},
+    { "id" : 4, "nome": "Smartphone Motorola Moto G200","preço" : "R$ 2.469,05"}   
+   ],
+
+    "notebook" : [
+    { "id" : 1, "nome" : "Notebook Asus ZenBook", "preco" : "3000"},
+    { "id" : 2, "nome" : "Notebook Acer Dinamo", "preco" : "2000"},
+    { "id" : 3, "nome" : "Notebook Apple 11", "preco" : "4000"},
+    { "id" : 4, "nome" : "Notebook Positivo Premium", "preco" : "1700"}
+
+    ],
+
+    "escritorio" : [
+    { "id" : 1, "nome" : "Cadeira Presidente", "preco" : "500"},
+    { "id" : 2, "nome" : "Escrivaninha", "preco" : "200"},
+    { "id" : 3, "nome" : "Cofre", "preco" : "50"},
+    { "id" : 4, "nome" : "Calculadora", "preco" : "35"}
+        
+  ],
+
+    "audio" : [
+    { "id" : 1, "nome" : "Caixa JBL Boombox", "preco" : "2100"},
+    { "id" : 2, "nome" : "Fone de Ouvido Husky", "preco" : "200"},
+    { "id" : 3, "nome" : "Headset Gamer Astro A20", "preco" : "500"},
+    { "id" : 4, "nome" : "Headset JBL sem fio", "preco" : "400"}
+            
+  ]
+}
